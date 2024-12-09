@@ -1,7 +1,7 @@
 from main import get_weather_data
 import pytest
 
-key = 'b4aeb20242213e0f0bd25f9d5d7063f5'
+key = ''
 
 
 def test_without_key():
