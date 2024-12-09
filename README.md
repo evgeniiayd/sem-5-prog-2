@@ -7,7 +7,9 @@
 ![image](https://github.com/user-attachments/assets/827e55ff-a25b-4d0e-992b-f5cd2245a894)
 
 Код программы:
-'''
+
+```
+
 from owm_key import owm_api_key
 import requests
 from tabulate import tabulate
@@ -50,4 +52,4 @@ if __name__ == '__main__':
     get_weather_data('Saint Petersburg', api_key=owm_api_key)
     get_weather_data('Dhaka', api_key=owm_api_key)
 
-'''
+```
