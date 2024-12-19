@@ -1,0 +1,11 @@
+README.md
+setup.py
+get-open-weather-data/__init__.py
+get-open-weather-data/getweatherdata_test.py
+get-open-weather-data/main.py
+get-open-weather-data/owm_key.py
+get_open_weather_data.egg-info/PKG-INFO
+get_open_weather_data.egg-info/SOURCES.txt
+get_open_weather_data.egg-info/dependency_links.txt
+get_open_weather_data.egg-info/not-zip-safe
+get_open_weather_data.egg-info/top_level.txt
